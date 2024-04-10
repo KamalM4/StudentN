@@ -19,6 +19,8 @@ const viewStudent = async (id) => {
     }
 };
 
+//viewAll
+
 const viewAllStudent = async () => {
     try{
         return await studentModel.find();
