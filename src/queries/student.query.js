@@ -19,7 +19,7 @@ const viewStudent = async (id) => {
     }
 };
 
-//viewAll
+//viewAllStudent
 
 const viewAllStudent = async () => {
     try{
